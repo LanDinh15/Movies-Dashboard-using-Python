@@ -61,6 +61,5 @@ Start the Streamlit application by running the following command:
 ## 📞 Contact
 - **Author**: Lan Dinh
 - **Email**: landinh.515@gmail.com
-- **GitHub**: 
 
 
