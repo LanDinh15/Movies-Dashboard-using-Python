@@ -59,7 +59,7 @@ Start the Streamlit application by running the following command:
 - **Filters**: Adjust sidebar filters to refine visualizations and explore specific trends.
 
 ## 📞 Contact
-- **Author**: Lan Dinh
-- **Email**: landinh.515@gmail.com
+- **Author**: Lan (Summer) Dinh
+- **Email**: summerdinh155@gmail.com
 
 
